@@ -43,4 +43,4 @@ research-system/
 ### At the end make the process_question which will take the input and give the output 
 
 ### additinlly i have created a streamlit frontend for these with little bit of my knowledge and llm 
-<img src="Screenshot 2025-03-05 002948.png"  width="300" />
+<img src="Screenshot 2025-03-05 002948.png"  width="600" />
